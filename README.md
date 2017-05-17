@@ -1,8 +1,4 @@
-# DeadSea-Casino
+COSC 360
+A Web Programming project
 
-A web programming project
-
-Created By:
-  Stephane Chan
-  Lam Ng
-  Brandon Truong
+Features slideshow: https://docs.google.com/presentation/d/1L5eLfb4lPeXXaPghiTb8LVlpC8tI2JqeiDMFUwNqFsY/edit?usp=sharing
